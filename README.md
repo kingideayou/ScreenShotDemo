@@ -9,6 +9,6 @@ Android Screenshot without StatusBar Demo.
 
 <img src="https://raw.githubusercontent.com/kingideayou/ScreenShotDemo/master/demo_img/screenshot_demo_2.png" width = "300" height = "520" alt="效果图" align=center />
 
-未去除状态栏效果（顶部有白色长条）：
+未去除状态栏效果（顶部有白色长条为状态栏）：
 
 <img src="https://raw.githubusercontent.com/kingideayou/ScreenShotDemo/master/demo_img/screenshot_demo_1.png" width = "300" height = "520" alt="效果图" align=center />
